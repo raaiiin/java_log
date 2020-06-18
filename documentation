@@ -1,0 +1,13 @@
+<h1> Shapes </h1>
+  <h2><a href="https://www.khanacademy.org/computing/computer-programming/programming/objects/pt/intro-to-objects">Documentation Source</a>
+  </h2>
+  <ul>
+    <li>Rectangle: rect(x // x coordinate of top left corner//, y // y coordinate of top left corner//, width, height, radius);</li>
+    <li>Ellipse: ellipse(x //center//, y  //center//, width, height);</li>
+    <li>Triangle: triangle(x1, y1, x2, y2, x3, y3);// no need to explain positoning, you determine by how you enter this//</li>
+    <li>Line: line(x1, y1, x2, y2)// same as above//</li>
+  </ul>
+    <p>Images I am unsure of but I will come back to this, currently only have Khan Academy as a resource for what to do with images and they 
+    only allow local image imports. But it is good to refresh. This list is by no means a master list simply a reference for what can be
+    done with java.</p>
+    
